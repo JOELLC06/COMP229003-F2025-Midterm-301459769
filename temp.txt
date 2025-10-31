@@ -1,0 +1,3 @@
+lecianclaymoa2121_db_user
+Whatsup06
+mongodb+srv://lecianclaymoa2121_db_user:Whatsup06@cluster003.0ux9yqf.mongodb.net/
